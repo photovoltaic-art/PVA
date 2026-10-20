@@ -1,3 +1,5 @@
+<img src="assets/pva-avatar.svg" alt="PVA logo" width="120">
+
 # PVA — Photovoltaic Art
 
 New uses for end-of-life solar panels, as art.
