@@ -1,0 +1,36 @@
+# PVA — tasks
+
+Tasks for the PVA organisation itself: the manifesto, the website and the organisation on GitHub. Tasks for SUNDIAL live in its own repo ([FORK-TASKS.md](https://github.com/photovoltaic-art/SUNDIAL/blob/main/FORK-TASKS.md)).
+
+> Updated 20 Oct 2026.
+
+## Domain
+
+- [ ] **Register `photovoltaic.art`.** Check the renewal price before paying: some .art names renew at a premium rate.
+- [ ] Check `fotovoltaica.art` (Italian front door, redirect only). Register only if cheap.
+- [ ] **Verify the domain for the organisation:** organisation Settings → Pages → verified domains (a DNS TXT record). This stops anyone else pointing a GitHub site at the domain or its subdomains.
+- [ ] DNS for the manifesto site: `photovoltaic.art` → GitHub Pages for this repo (A/AAAA records for the apex, `www` as a CNAME).
+- [ ] DNS for SUNDIAL Bosa: `bosa.photovoltaic.art` → CNAME to `photovoltaic-art.github.io`, set as the custom domain in the SUNDIAL repo's Pages settings.
+- [ ] Turn on **Enforce HTTPS** in both repos once the certificates are issued.
+
+## Single-page site (photovoltaic.art)
+
+- [ ] **One page, built from `MANIFESTO.md`:** the opening, the nine principles, the works index, "make your own". Italian and English with a language switch; no tracking, no cookies, no external scripts beyond fonts.
+- [ ] Publish with GitHub Pages from this repo (`docs/index.html`, or the repo root), custom domain `photovoltaic.art`.
+- [ ] Link SUNDIAL's entry to `bosa.photovoltaic.art` once that site is live, and to the SUNDIAL repo.
+- [ ] A short footer: the organisation link, and "Draft · not yet licensed for reuse" until the release.
+
+## Manifesto
+
+- [ ] Native Italian reader checks the tone of the Italian version.
+- [ ] Final read of the nine principles against SUNDIAL as built (after the field test).
+
+## Organisation
+
+- [ ] Create a `.github` repo with `profile/README.md`: a short version of the manifesto shown on the organisation's front page.
+- [ ] Turn on two-factor authentication for every owner.
+- [ ] Add a second owner when there is someone trusted to hold it.
+
+## Release (last)
+
+- [ ] Licence for the manifesto text (CC BY 4.0, matching SUNDIAL's texts) when SUNDIAL is released.
