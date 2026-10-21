@@ -31,6 +31,10 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 - [ ] Turn on two-factor authentication for every owner.
 - [ ] Add a second owner when there is someone trusted to hold it.
 
+## Works in discussion
+
+- [ ] **No. 2, GO TO BED** ([concept](works/02-go-to-bed.md)), on hold while SUNDIAL v1 goes to manufacture. First step when resumed: bench test of a relay and web chat on an ESP32-S3.
+
 ## Release (last)
 
 - [ ] Licence for the manifesto text (CC BY 4.0, matching SUNDIAL's texts) when SUNDIAL is released.
