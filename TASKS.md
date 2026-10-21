@@ -33,7 +33,7 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 
 ## Works in discussion
 
-- [ ] **No. 2, GO TO BED** ([concept](works/02-go-to-bed.md)), on hold while SUNDIAL v1 goes to manufacture. First step when resumed: bench test of a relay and web chat on an ESP32-S3.
+- [ ] **No. 2, GO TO BED** ([concept](works/02-go-to-bed.md)), on hold while SUNDIAL v1 goes to manufacture. First step when resumed: run the [carry test](works/gtb/carry_test/TEST.md). Then: event-mode admin for specialized nodes (the auction node), borrowing SUNDIAL's login.
 
 ## Release (last)
 
