@@ -33,7 +33,7 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 
 ## Works
 
-- [ ] **No. 2, SUNSET:** link it from the README and the manifesto's works table once its repository is public. Its tasks live in its own repo (`TASKS.md`). GO TO BED, the concept it grew from, moved there on 22 Oct 2026 with its format, carry test and test bed.
+- [x] **No. 2, SUNSET:** linked from the README and the manifesto's works table (22 Oct 2026). Make its repository public (Settings → General → Danger Zone → Change visibility). Its tasks live in its own repo (`TASKS.md`). GO TO BED, the concept it grew from, moved there on 22 Oct 2026 with its format, carry test and test bed.
 
 ## Manifesto (22 Oct 2026)
 

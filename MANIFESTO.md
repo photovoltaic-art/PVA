@@ -37,7 +37,7 @@ A solar panel is retired after twenty or twenty-five years. It is not dead. It s
 | No. | Work | Where | What |
 | --- | --- | --- | --- |
 | 1 | [**SUNDIAL**](https://github.com/photovoltaic-art/SUNDIAL) | Bosa, Sardinia, from 2027 | Nine retired panels as public sundials. Each records its own sun all year, and once a year turns its days into images and a screen print. A SUNDIAL is nine panels. |
-| 2 | **SUNSET** | In design | Nine retired panels as an offline network with its own currency: stamps earned by walking and by skill, spent at an auction, a mint and a wall of mechanical pixels. Every day's business closes at sunset. |
+| 2 | [**SUNSET**](https://github.com/photovoltaic-art/SUNSET) | In design | Nine retired panels as an offline network with its own currency: stamps earned by walking and by skill, spent at an auction, a mint and a wall of mechanical pixels. Every day's business closes at sunset. |
 
 ### Make your own
 
@@ -76,7 +76,7 @@ Un pannello solare viene dismesso dopo venti o venticinque anni. Non è morto. T
 | N. | Opera | Dove | Cosa |
 | --- | --- | --- | --- |
 | 1 | [**SUNDIAL**](https://github.com/photovoltaic-art/SUNDIAL) | Bosa, Sardegna, dal 2027 | Nove pannelli dismessi diventano meridiane pubbliche. Ognuno registra il proprio sole tutto l'anno e, una volta l'anno, trasforma i suoi giorni in immagini e in una serigrafia. Un SUNDIAL è fatto di nove pannelli. |
-| 2 | **SUNSET** | In progettazione | Nove pannelli dismessi formano una rete offline con una propria moneta: francobolli guadagnati camminando e con l'abilità, spesi a un'asta, a una zecca e a un muro di pixel meccanici. Ogni giorno gli affari chiudono al tramonto. |
+| 2 | [**SUNSET**](https://github.com/photovoltaic-art/SUNSET) | In progettazione | Nove pannelli dismessi formano una rete offline con una propria moneta: francobolli guadagnati camminando e con l'abilità, spesi a un'asta, a una zecca e a un muro di pixel meccanici. Ogni giorno gli affari chiudono al tramonto. |
 
 ### Fanne una tua
 
