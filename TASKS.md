@@ -2,7 +2,7 @@
 
 Tasks for the PVA organisation itself: the manifesto, the website and the organisation on GitHub. Tasks for SUNDIAL live in its own repo ([FORK-TASKS.md](https://github.com/photovoltaic-art/SUNDIAL/blob/main/FORK-TASKS.md)).
 
-> Updated 20 Oct 2026.
+> Updated 22 Oct 2026.
 
 ## Domain
 
@@ -31,9 +31,16 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 - [ ] Turn on two-factor authentication for every owner.
 - [ ] Add a second owner when there is someone trusted to hold it.
 
-## Works in discussion
+## Works
 
-- [ ] **No. 2, GO TO BED** ([concept](works/02-go-to-bed.md)), on hold while SUNDIAL v1 goes to manufacture. First step when resumed: run the [carry test](works/gtb/carry_test/TEST.md). Then: event-mode admin for specialized nodes (the auction node), borrowing SUNDIAL's login.
+- [ ] **No. 2, SUNSET:** link it from the README and the manifesto's works table once its repository is public. Its tasks live in its own repo (`TASKS.md`). GO TO BED, the concept it grew from, moved there on 22 Oct 2026 with its format, carry test and test bed.
+
+## Manifesto (22 Oct 2026)
+
+- [x] Principle 1 rewritten so it fits both works: the panel stays in view; what is added serves what it does with the sun.
+- [x] Principle 3: a battery may store the panel's own sun, never the grid's.
+- [ ] Principle 4 says works "stop at dark", while SUNSET's auction lights stay on after sunset from stored sun. Decide whether 4 needs the same softening as 3.
+- [ ] Native Italian reader checks the two rewritten principles.
 
 ## Release (last)
 
