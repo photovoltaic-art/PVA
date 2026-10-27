@@ -20,7 +20,7 @@ A solar panel is retired after twenty or twenty-five years. It is not dead. It s
 
 3. **The panel powers only its own work.** Each work runs on its own panel and nothing else: no grid, no export. A battery may store the panel's own sun, never the grid's. When the light and the stored sun run out, the work rests.
 
-4. **The sun sets the rules.** Works keep solar time. They wake with the light and stop at dark. Whatever they make, they make at the sun's pace.
+4. **The sun sets the rules.** Works keep solar time. They wake with the light and rest when their sun runs out. Whatever they make, they make at the sun's pace.
 
 5. **Offline by nature.** No internet, no account, no tracking. A work may count, but it keeps no one.
 
@@ -61,7 +61,7 @@ Un pannello solare viene dismesso dopo venti o venticinque anni. Non è morto. T
 
 3. **Il pannello alimenta solo la propria opera.** Ogni opera funziona con il proprio pannello e nient'altro: niente rete, niente cessione di energia. Una batteria può conservare il sole del pannello, mai quello della rete. Quando la luce e il sole conservato finiscono, l'opera riposa.
 
-4. **Il sole detta le regole.** Le opere seguono l'ora solare. Si svegliano con la luce e si fermano con il buio. Qualunque cosa producano, la producono al ritmo del sole.
+4. **Il sole detta le regole.** Le opere seguono l'ora solare. Si svegliano con la luce e riposano quando il loro sole si esaurisce. Qualunque cosa producano, la producono al ritmo del sole.
 
 5. **Offline per natura.** Niente internet, nessun account, nessun tracciamento. Un'opera può contare, ma non trattiene nessuno.
 

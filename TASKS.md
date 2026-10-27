@@ -47,8 +47,8 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 
 - [x] Principle 1 rewritten so it fits both works: the panel stays in view; what is added serves what it does with the sun.
 - [x] Principle 3: a battery may store the panel's own sun, never the grid's.
-- [ ] Principle 4 says works "stop at dark", while SUNSET's auction lights stay on after sunset from stored sun. Decide whether 4 needs the same softening as 3.
-- [ ] Native Italian reader checks the two rewritten principles, the SUNSET row and the closing line.
+- [x] Principle 4 (27 Oct 2026): works "wake with the light and rest when their sun runs out", matching principle 3's stored sun.
+- [ ] Native Italian reader checks the rewritten principles 1, 3 and 4, the SUNSET row and the closing line.
 
 ## Release (last)
 
