@@ -35,6 +35,13 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 
 - [x] **No. 2, SUNSET:** linked from the README and the manifesto's works table (22 Oct 2026). Make its repository public (Settings → General → Danger Zone → Change visibility). Its tasks live in its own repo (`TASKS.md`). GO TO BED, the concept it grew from, moved there on 22 Oct 2026 with its format, carry test and test bed.
 
+## Growth model ([GROWTH.md](GROWTH.md))
+
+- [ ] Terms of node ownership from year 2: given, adopted or paid for; when an owner leaves (GROWTH.md 3.4).
+- [ ] Upkeep, insurance and permissions with nine owners.
+- [ ] Whether SUNDIAL's annual event continues after year 1.
+- [ ] How the works, and PVA's authorship, are described once they are a commons; perhaps a line in the manifesto: *built to be held in common, like the sun that powers them*.
+
 ## Manifesto (22 Oct 2026)
 
 - [x] Principle 1 rewritten so it fits both works: the panel stays in view; what is added serves what it does with the sun.
