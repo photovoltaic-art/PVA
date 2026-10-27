@@ -40,14 +40,15 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 - [ ] Terms of node ownership from year 2: given, adopted or paid for; when an owner leaves (GROWTH.md 3.4).
 - [ ] Upkeep, insurance and permissions with nine owners.
 - [ ] Whether SUNDIAL's annual event continues after year 1.
-- [ ] How the works, and PVA's authorship, are described once they are a commons; perhaps a line in the manifesto: *built to be held in common, like the sun that powers them*.
+- [x] The manifesto's closing line (27 Oct 2026): *Like the sun that powers them, the works are made to be held in common* / *Come il sole che le alimenta, le opere nascono per essere un bene comune*.
+- [ ] How PVA's authorship is described once the works are a commons.
 
 ## Manifesto (22 Oct 2026)
 
 - [x] Principle 1 rewritten so it fits both works: the panel stays in view; what is added serves what it does with the sun.
 - [x] Principle 3: a battery may store the panel's own sun, never the grid's.
 - [ ] Principle 4 says works "stop at dark", while SUNSET's auction lights stay on after sunset from stored sun. Decide whether 4 needs the same softening as 3.
-- [ ] Native Italian reader checks the two rewritten principles.
+- [ ] Native Italian reader checks the two rewritten principles, the SUNSET row and the closing line.
 
 ## Release (last)
 

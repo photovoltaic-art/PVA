@@ -37,11 +37,13 @@ A solar panel is retired after twenty or twenty-five years. It is not dead. It s
 | No. | Work | Where | What |
 | --- | --- | --- | --- |
 | 1 | [**SUNDIAL**](https://github.com/photovoltaic-art/SUNDIAL) | Bosa, Sardinia, from 2027 | Nine retired panels as public sundials. Each records its own sun all year, and once a year turns its days into images and a screen print. A SUNDIAL is nine panels. |
-| 2 | [**SUNSET**](https://github.com/photovoltaic-art/SUNSET) | In design | Nine retired panels as an offline network with its own currency: stamps earned by walking and by skill, spent at an auction, a mint and a wall of mechanical pixels. Every day's business closes at sunset. |
+| 2 | [**SUNSET**](https://github.com/photovoltaic-art/SUNSET) | Bosa, from 2028 | SUNDIAL's nine panels, grown into an offline network with its own currency: stamps earned by walking and from the sun, spent at an auction, a mint and a wall of mechanical pixels. Every day's business closes at sunset. Each panel then has its own owner: the work is held in common. |
 
 ### Make your own
 
 Every PVA work is published so it can be made again somewhere else. Fork it, place it in your own town, and run it your own way. If you do, a link back to [photovoltaic.art](https://photovoltaic.art) is all we ask.
+
+**Like the sun that powers them, the works are made to be held in common.**
 
 ---
 
@@ -76,8 +78,10 @@ Un pannello solare viene dismesso dopo venti o venticinque anni. Non è morto. T
 | N. | Opera | Dove | Cosa |
 | --- | --- | --- | --- |
 | 1 | [**SUNDIAL**](https://github.com/photovoltaic-art/SUNDIAL) | Bosa, Sardegna, dal 2027 | Nove pannelli dismessi diventano meridiane pubbliche. Ognuno registra il proprio sole tutto l'anno e, una volta l'anno, trasforma i suoi giorni in immagini e in una serigrafia. Un SUNDIAL è fatto di nove pannelli. |
-| 2 | [**SUNSET**](https://github.com/photovoltaic-art/SUNSET) | In progettazione | Nove pannelli dismessi formano una rete offline con una propria moneta: francobolli guadagnati camminando e con l'abilità, spesi a un'asta, a una zecca e a un muro di pixel meccanici. Ogni giorno gli affari chiudono al tramonto. |
+| 2 | [**SUNSET**](https://github.com/photovoltaic-art/SUNSET) | Bosa, dal 2028 | I nove pannelli di SUNDIAL diventano una rete offline con una propria moneta: francobolli guadagnati camminando e dal sole, spesi a un'asta, a una zecca e a un muro di pixel meccanici. Ogni giorno gli affari chiudono al tramonto. Ogni pannello ha poi un proprio proprietario: l'opera è un bene comune. |
 
 ### Fanne una tua
 
 Ogni opera PVA è pubblicata perché possa essere rifatta altrove. Fai un fork, collocala nella tua città e gestiscila a modo tuo. Se lo fai, ti chiediamo soltanto un link a [photovoltaic.art](https://photovoltaic.art).
+
+**Come il sole che le alimenta, le opere nascono per essere un bene comune.**
