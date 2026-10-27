@@ -218,7 +218,15 @@ Each repository is **complete** when both are true:
 
 **Only then is it licensed,** and the licences are what make it forkable. The task lists are each repository's FORK-TASKS.md.
 
-### 6.2 SUNSET's node catalogue
+### 6.2 As simple as possible
+
+Designing for forking is the main goal, so every choice leans to the simplest thing a town can repeat:
+
+- **One board everywhere.** The PVA carrier board v1, unchanged, on every panel of both works and every catalogue node; SUNSET's interactive nodes add the battery tier, not a different board.
+- **One image per work.** All nine SUNDIAL panels run the same firmware file, and all nine SUNSET nodes another; a panel's name, keys (and in SUNSET its role) are written to its flash at installation.
+- **Security in proportion.** SUNDIAL has no money in it, so it keeps its light security. SUNSET carries stamps and coins, so its security work (SECURITY.md in the SUNSET repository) stays in SUNSET.
+
+### 6.3 SUNSET's node catalogue
 
 SUNSET is licensed later than SUNDIAL for one more reason: **PVA builds and tests further interactive nodes first.** Every node in the catalogue meets the same rules (its own sun, the same seal, stamps only from walk or sun, offline, closed at sunset, secure, keeps no one), and is field-tested by PVA before a fork may choose it.
 
