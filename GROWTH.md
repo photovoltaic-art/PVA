@@ -1,13 +1,14 @@
 # PVA growth model — from SUNDIAL to SUNSET
 
-How PVA's first two works grow out of each other in one town: the same nine panels, first owned and run by PVA, then upgraded and handed to nine separate owners.
+How PVA's works grow in one town: one panel as the artist's proof, then nine panels as SUNDIAL, then the same nine as SUNSET, handed to nine separate owners. Beyond one town, by forking.
 
-> Status: draft 3, 27 Oct 2026: the final shape. Two stages in one town (1–3); growth by forking (5); when the works are complete, and the node catalogue (6). Covers [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL) (no. 1) and [SUNSET](https://github.com/photovoltaic-art/SUNSET) (no. 2). Nothing built.
+> Status: draft 4, 27 Oct 2026: the final shape. The path: artist's proof, SUNDIAL, SUNSET; two stages in one town (1–3); growth by forking (5); when the works are complete, and the node catalogue (6). Covers [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL) (no. 1) and [SUNSET](https://github.com/photovoltaic-art/SUNSET) (no. 2). Nothing built.
 
 ---
 
 ## TL;DR
 
+- **The path: proof, SUNDIAL, SUNSET.** One panel as SUNDIAL's **artist's proof**; then **nine panels as SUNDIAL**; then **the same nine as SUNSET** (the path, below).
 - **Year 1, SUNDIAL:** nine panels across the town as sundials and sun monitors, with a summer event. **No tokens.** **PVA owns and manages everything.**
 - **Year 2, SUNSET:** the **same nine panels** become SUNSET's nodes:
   - **4 wall nodes**, by a firmware update;
@@ -19,6 +20,31 @@ How PVA's first two works grow out of each other in one town: the same nine pane
 - **Beyond one town: growth by forking, never by linking.** Nine panels is the sweet spot: the network, the economy and the governance all work at nine and get worse with more. A new town forks the works and runs its own nine, with its own keys, coins, rules and website. Towns are never networked (5).
 - **Complete when tested and forkable:** each repository is complete when its hardware and software have been trialled and it has a reproducible build a fork can repeat; only then is it licensed. **Before SUNSET is licensed, PVA builds and tests further interactive nodes,** so each fork chooses its own nine from a catalogue of tested nodes (6).
 - **Why:** the works end as they are powered, as a commons, like the sun.
+
+---
+
+## The path
+
+| Stage | Panels | What | Owned by |
+| --- | --- | --- | --- |
+| **Artist's proof** | **1** | A single SUNDIAL panel, outside the edition | PVA, always |
+| **SUNDIAL** (year 1) | **9** | The edition: nine sundials and Sole (1) | PVA |
+| **SUNSET** (year 2) | **the same 9** | The same nine panels as an offline network with its own money (2) | Nine separate owners (3) |
+
+**Every PVA work is an edition of nine panels: never more, never less.** Nine is the threshold, tested and proven in Bosa before any other town copies the work (5).
+
+### The artist's proof
+
+As in printmaking, the **artist's proof** (*prova d'artista*) stands outside the numbered edition: a single panel with its carrier board, **a complete SUNDIAL on one panel** (the sundial and Sole both work alone).
+
+- **Owned by PVA, always.** Never installed as a town's work, never counted in an edition, never sold or forked as a work.
+- **Made first,** before the nine: it is SUNDIAL's pilot panel.
+- **What it is for:**
+  - proving the panel, the carrier board, the gnomon and the hour lines before nine are built;
+  - bench-testing every firmware build, before it goes into the nine;
+  - showing the comune, the hosts and (from year 2) the owners what they are agreeing to;
+  - exhibitions and talks.
+- **SUNDIAL only.** SUNSET has no artist's proof: one node can't show it, because walking needs somewhere to walk to. SUNSET is tested on the bench (two boards upwards) and in its pilot (TASKS.md in the SUNSET repository), and its catalogue nodes are built and tested by PVA ([NODES.md](https://github.com/photovoltaic-art/SUNSET/blob/main/NODES.md)).
 
 ---
 
