@@ -2,7 +2,7 @@
 
 How PVA's first two works grow out of each other in one town: the same nine panels, first owned and run by PVA, then upgraded and handed to nine separate owners.
 
-> Status: draft 2, 27 Oct 2026 (section 5, growth by forking, added). Covers [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL) (no. 1) and [SUNSET](https://github.com/photovoltaic-art/SUNSET) (no. 2). Nothing built.
+> Status: draft 3, 27 Oct 2026: the final shape. Two stages in one town (1–3); growth by forking (5); when the works are complete, and the node catalogue (6). Covers [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL) (no. 1) and [SUNSET](https://github.com/photovoltaic-art/SUNSET) (no. 2). Nothing built.
 
 ---
 
@@ -17,6 +17,7 @@ How PVA's first two works grow out of each other in one town: the same nine pane
 - **PVA writes the firmware and the rules, and manages the website** (map, Sole, the explorer). It no longer owns the nodes.
 - **The sundial stays:** every panel keeps its gnomon, so the town keeps its nine sundials whatever runs behind them.
 - **Beyond one town: growth by forking, never by linking.** Nine panels is the sweet spot: the network, the economy and the governance all work at nine and get worse with more. A new town forks the works and runs its own nine, with its own keys, coins, rules and website. Towns are never networked (5).
+- **Complete when tested and forkable:** each repository is complete when its hardware and software have been trialled and it has a reproducible build a fork can repeat; only then is it licensed. **Before SUNSET is licensed, PVA builds and tests further interactive nodes,** so each fork chooses its own nine from a catalogue of tested nodes (6).
 - **Why:** the works end as they are powered, as a commons, like the sun.
 
 ---
@@ -175,4 +176,29 @@ The radio node once sketched in GO TO BED (a LoRa link to the next village) is s
 - **The licences are the growth plan.** Both repositories are "not yet licensed for reuse", so no one can legally fork them yet. Each is released, with its licences, once field-tested (SUNDIAL at SUNDIAL 2027; SUNSET after its first full season in Bosa, 2028).
 - **Everything that belongs to Bosa in one folder,** so a fork replaces that folder and nothing else: SUNDIAL's [FORK-TASKS.md](https://github.com/photovoltaic-art/SUNDIAL/blob/main/FORK-TASKS.md), and SUNSET's [FORK-TASKS.md](https://github.com/photovoltaic-art/SUNSET/blob/main/FORK-TASKS.md), which builds on it.
 - **A list of towns** on photovoltaic.art, for forks that send their link: so the instances can find each other without being networked.
+
+---
+
+## 6. When the works are complete
+
+**The shape is fixed:** two stages in one town (SUNDIAL, then SUNSET on the same nine panels), and forking as the only route to more towns. What remains is proof.
+
+### 6.1 Complete, then licensed
+
+Each repository is **complete** when both are true:
+
+1. **Trialled:** its hardware and software have run in the field. SUNDIAL at SUNDIAL 2027; SUNSET through its first full season in Bosa, 2028.
+2. **Reproducible:** a fork can build exactly what was trialled: everything town-specific in one site folder, pinned versions, a tagged release, a fork rehearsed for another town.
+
+**Only then is it licensed,** and the licences are what make it forkable. The task lists are each repository's FORK-TASKS.md.
+
+### 6.2 SUNSET's node catalogue
+
+SUNSET is licensed later than SUNDIAL for one more reason: **PVA builds and tests further interactive nodes first.** Every node in the catalogue meets the same rules (its own sun, the same seal, stamps only from walk or sun, offline, closed at sunset, secure, keeps no one), and is field-tested by PVA before a fork may choose it.
+
+- **Bosa's nine are the reference set:** four walls, the gettoneria, the flip-dot wall, the street auction, the arm game, the SUNSET set.
+- **A fork chooses its own nine** from the catalogue, respecting each node's needs (the flip-dot wall needs the gettoneria beside it).
+- **The catalogue and its candidates:** [SUNSET NODES.md](https://github.com/photovoltaic-art/SUNSET/blob/main/NODES.md).
+
+So the organisation's lasting output is not one installation but **two tested works and a catalogue of tested nodes,** from which any town can make its own nine.
 

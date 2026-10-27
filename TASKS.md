@@ -44,6 +44,7 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 - [ ] How PVA's authorship is described once the works are a commons.
 - [x] Growth by forking, nine panels per town, never linked (GROWTH.md 5, 27 Oct 2026).
 - [ ] A list of towns on photovoltaic.art, for forks that send their link.
+- [x] Completion criteria and the node catalogue (GROWTH.md 6, 27 Oct 2026): each repo complete when trialled and reproducible, then licensed; SUNSET licensed after further nodes are built and tested.
 
 ## Manifesto (22 Oct 2026)
 
