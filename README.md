@@ -8,7 +8,7 @@ New uses for end-of-life solar panels, as art.
 - **Works:**
   - no. 1, [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL), Bosa, from 2027
   - no. 2, [SUNSET](https://github.com/photovoltaic-art/SUNSET), in design: nine panels as an offline network with its own currency, where every day's business closes at sunset (formerly GO TO BED; its concept, format and tests now live in the SUNSET repository)
-- **[Growth model](GROWTH.md):** year 1 SUNDIAL, owned and run by PVA; year 2 the same nine panels become SUNSET, each node owned separately
+- **[Growth model](GROWTH.md):** year 1 SUNDIAL, owned and run by PVA; year 2 the same nine panels become SUNSET, each node owned separately; beyond one town, growth by forking, never by linking
 - **Website:** [photovoltaic.art](https://photovoltaic.art) (coming)
 - **[Tasks](TASKS.md)**
 

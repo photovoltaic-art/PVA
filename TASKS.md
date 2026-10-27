@@ -42,6 +42,8 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 - [ ] Whether SUNDIAL's annual event continues after year 1.
 - [x] The manifesto's closing line (27 Oct 2026): *Like the sun that powers them, the works are made to be held in common* / *Come il sole che le alimenta, le opere nascono per essere un bene comune*.
 - [ ] How PVA's authorship is described once the works are a commons.
+- [x] Growth by forking, nine panels per town, never linked (GROWTH.md 5, 27 Oct 2026).
+- [ ] A list of towns on photovoltaic.art, for forks that send their link.
 
 ## Manifesto (22 Oct 2026)
 
