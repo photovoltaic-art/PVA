@@ -31,7 +31,7 @@ How PVA's works grow in one town: one panel as the artist's proof, then nine pan
 | **SUNDIAL** (year 1) | **9** | The edition: nine sundials and Sole (1) | PVA |
 | **SUNSET** (year 2) | **the same 9** | The same nine panels as an offline network with its own money (2) | Nine separate owners (3) |
 
-**Every PVA work is an edition of nine panels: never more, never less.** Nine is the threshold, tested and proven in Bosa before any other town copies the work (5).
+**Every PVA public installation is an edition of nine panels: never more, never less** (the manifesto's first line). The artist's proof is not a public installation. Nine is the threshold, tested and proven in Bosa before any other town copies the work (5).
 
 ### The artist's proof
 

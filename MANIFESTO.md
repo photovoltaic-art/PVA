@@ -8,6 +8,8 @@
 
 ## English
 
+**Every PVA public installation is an edition of nine panels: never more, never less.**
+
 A solar panel is retired after twenty or twenty-five years. It is not dead. It still turns sunlight into electricity, a little less than it did, every day the sun shines. Thousands are taken down each year and stacked, shredded or shipped away.
 
 **PVA finds them new work, as art.**
@@ -48,6 +50,8 @@ Every PVA work is published so it can be made again somewhere else. Fork it, pla
 ---
 
 ## Italiano
+
+**Ogni installazione pubblica PVA è un'edizione di nove pannelli: mai di più, mai di meno.**
 
 Un pannello solare viene dismesso dopo venti o venticinque anni. Non è morto. Trasforma ancora la luce del sole in elettricità, un po' meno di prima, ogni giorno di sole. Migliaia vengono smontati ogni anno e accatastati, triturati o spediti altrove.
 
