@@ -16,6 +16,8 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 ## Single-page site (photovoltaic.art)
 
 - [x] **First draft, English only (28 Oct 2026):** `docs/index.html`, the logo, the statement, a short text on retired panels, the nine principles, works (SUNDIAL; no. 2 shown only as "in design"), make your own. Enable Pages from `docs/` (Settings → Pages).
+- [ ] **A picture of the work:** photograph the prototype panel (the artist's proof) when it is built, and add it beside the opening statement. Until then the logo is the page's only image.
+- [ ] **Contact:** decide whether the page names anyone or gives a way to get in touch (for the comune, wall owners, press), or stays deliberately unsigned. Fine without for now.
 - [ ] **One page, built from `MANIFESTO.md`:** the opening, the nine principles, the works index, "make your own". Italian and English with a language switch; no tracking, no cookies, no external scripts beyond fonts.
 - [ ] Publish with GitHub Pages from this repo (`docs/index.html`, or the repo root), custom domain `photovoltaic.art`.
 - [ ] Link SUNDIAL's entry to `bosa.photovoltaic.art` once that site is live, and to the SUNDIAL repo.
