@@ -40,7 +40,7 @@ Tasks for the PVA organisation itself: the manifesto, the website and the organi
 
 ## Growth model ([GROWTH.md](GROWTH.md))
 
-- [ ] Terms of node ownership from year 2: given, adopted or paid for; when an owner leaves (GROWTH.md 3.4).
+- [ ] **The 2029 solstice auction** (GROWTH.md 3.0): who runs it, reserves, currency, VAT and resale right; the provenance and condition report per lot, produced from the explorer.
 - [ ] Upkeep, insurance and permissions with nine owners.
 - [ ] Whether SUNDIAL's annual event continues after year 1.
 - [x] The manifesto's closing line (27 Oct 2026): *Like the sun that powers them, the works are made to be held in common* / *Come il sole che le alimenta, le opere nascono per essere un bene comune*.

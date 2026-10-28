@@ -1,8 +1,8 @@
 # PVA growth model — from SUNDIAL to SUNSET
 
-How PVA's works grow in one town: one panel as the artist's proof, then nine panels as SUNDIAL, then the same nine as SUNSET, handed to nine separate owners. Beyond one town, by forking.
+How PVA's works grow in one town: one panel as the artist's proof, then nine panels as SUNDIAL, then the same nine as SUNSET, tried for a season and sold at auction to nine separate owners. Beyond one town, by forking.
 
-> Status: draft 4, 27 Oct 2026: the final shape. The path: artist's proof, SUNDIAL, SUNSET; two stages in one town (1–3); growth by forking (5); when the works are complete, and the node catalogue (6). Covers [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL) (no. 1) and [SUNSET](https://github.com/photovoltaic-art/SUNSET) (no. 2). Nothing built.
+> Status: draft 5, 28 Oct 2026: SUNSET's first season (2028) is a trial run by PVA; the nine nodes are sold at auction at the summer solstice of 2029, each with its provenance and condition report (3). Draft 4, 27 Oct 2026: the final shape. The path: artist's proof, SUNDIAL, SUNSET; two stages in one town (1–3); growth by forking (5); when the works are complete, and the node catalogue (6). Covers [SUNDIAL](https://github.com/photovoltaic-art/SUNDIAL) (no. 1) and [SUNSET](https://github.com/photovoltaic-art/SUNSET) (no. 2). Nothing built.
 
 ---
 
@@ -14,8 +14,9 @@ How PVA's works grow in one town: one panel as the artist's proof, then nine pan
   - **4 wall nodes**, by a firmware update;
   - **5 interactive nodes**, by adding the battery tier and their own hardware (auction, arm, gettoneria, flip-dot wall, the set).
   - **Stamps and tokens** begin.
-- **From year 2, each node is owned separately.** **Anyone** can own a node: a host, a sponsor, a local group. Each owner holds their node's key; nine owners together decide on rule changes and on the year's coin list.
-- **PVA writes the firmware and the rules, and manages the website** (map, Sole, the explorer). It no longer owns the nodes.
+  - **A trial season, run by PVA.** PVA still owns and manages every node, fixes what fails, and builds up each node's record.
+- **Year 3, the auction:** **all nine nodes are offered at auction at the summer solstice of 2029**, each with its provenance and condition report from the trial season. **Anyone** can buy one: a host, a sponsor, a local group, a business. One buyer, one node. Each owner holds their node's key; the nine owners together decide on rule changes and on the year's coin list ([GOVERNANCE.md](https://github.com/photovoltaic-art/SUNSET/blob/main/GOVERNANCE.md)).
+- **After the auction, PVA is the enabling layer:** it writes the firmware and the rules and manages the website (map, Sole, the explorer), with no say over the owners.
 - **The sundial stays:** every panel keeps its gnomon, so the town keeps its nine sundials whatever runs behind them.
 - **Beyond one town: growth by forking, never by linking.** Nine panels is the sweet spot: the network, the economy and the governance all work at nine and get worse with more. A new town forks the works and runs its own nine, with its own keys, coins, rules and website. Towns are never networked (5).
 - **Complete when tested and forkable:** each repository is complete when its hardware and software have been trialled and it has a reproducible build a fork can repeat; only then is it licensed. **Before SUNSET is licensed, PVA builds and tests further interactive nodes,** so each fork chooses its own nine from a catalogue of tested nodes (6).
@@ -29,7 +30,8 @@ How PVA's works grow in one town: one panel as the artist's proof, then nine pan
 | --- | --- | --- | --- |
 | **Artist's proof** | **1** | A single SUNDIAL panel, outside the edition | PVA, always |
 | **SUNDIAL** (year 1) | **9** | The edition: nine sundials and Sole (1) | PVA |
-| **SUNSET** (year 2) | **the same 9** | The same nine panels as an offline network with its own money (2) | Nine separate owners (3) |
+| **SUNSET** (year 2, 2028) | **the same 9** | The same nine panels as an offline network with its own money: a trial season (2) | PVA |
+| **The auction** (summer solstice, 2029) | **the same 9** | Each node sold with its provenance and condition report (3) | Nine separate owners |
 
 **Every PVA public installation is an edition of nine panels: never more, never less** (the manifesto's first line). The artist's proof is not a public installation. Nine is the threshold, tested and proven in Bosa before any other town copies the work (5).
 
@@ -42,7 +44,7 @@ As in printmaking, the **artist's proof** (*prova d'artista*) stands outside the
 - **What it is for:**
   - proving the panel, the carrier board, the gnomon and the hour lines before nine are built;
   - bench-testing every firmware build, before it goes into the nine;
-  - showing the comune, the hosts and (from year 2) the owners what they are agreeing to;
+  - showing the comune, the hosts and (before the auction) buyers what they are agreeing to;
   - exhibitions and talks.
 - **SUNDIAL only.** SUNSET has no artist's proof: one node can't show it, because walking needs somewhere to walk to. SUNSET is tested on the bench (two boards upwards) and in its pilot (TASKS.md in the SUNSET repository), and its catalogue nodes are built and tested by PVA ([NODES.md](https://github.com/photovoltaic-art/SUNSET/blob/main/NODES.md)).
 
@@ -84,7 +86,7 @@ So the year-1 site plan names a year-2 role for each panel, and the year-1 permi
 | **5** | **Interactive nodes** | **The battery tier** (Victron MPPT, LiFePO₄ battery, cabinet; JP1 off, the panel's own sun sensor compiled out), the node's own hardware, and the interactive build |
 
 - **Same carrier board v1, unchanged,** as SUNSET always assumed. The firmware change is made with the box opened at the spring visit, as SUNDIAL's yearly updates are.
-- **New keys at handover:** each node generates a fresh key in its new owner's presence; PVA's year-1 key is retired and published with its end date (stamp-format.md 2).
+- **PVA keeps the keys through the trial season.** New keys are generated at the auction's handover (3.3).
 
 ### 2.2 What carries on from SUNDIAL
 
@@ -100,16 +102,30 @@ Everything in the SUNSET repository: stamps and tokens ([tokenomics.md](https://
 
 ---
 
-## 3. Ownership from year 2
+## 3. Ownership: the auction, summer solstice 2029
+
+### 3.0 The trial season and the auction
+
+**2028 is SUNSET's trial season.** PVA owns and runs all nine nodes, as it ran SUNDIAL: it fixes faults, replaces what fails, and keeps each node's record. The season is the proof that the work runs, before anyone else takes it on.
+
+**At the summer solstice of 2029, the nine nodes are offered at auction,** one lot per node.
+
+- **The full set.** PVA aims to offer all nine. A node that failed in the trial is repaired, or rebuilt as a new node of the same role or a tested catalogue node ([NODES.md](https://github.com/photovoltaic-art/SUNSET/blob/main/NODES.md)), before the sale.
+- **Provenance and condition report with every lot,** drawn from the work's own public record: the node's signed daily blocks, days awake, blocks sealed, stamps issued and spent, service notices raised and repairs made, from installation as a SUNDIAL panel to the day of the sale. The chain is the condition report; anyone can check it on the explorer.
+- **One buyer, one node.** A bidder may win only one lot, and agreeing to the owners' agreement is a condition of bidding ([GOVERNANCE.md](https://github.com/photovoltaic-art/SUNSET/blob/main/GOVERNANCE.md)).
+- **The hammer at sunset,** like SUNSET's own street auction.
+- **An unsold lot** stays with PVA, abstains in every vote, and is offered again at the next solstice.
+- **The rules in force:** the 2029 rules, written by PVA, run until the spring of 2030. The owners' first vote is on the 2030 rules.
+- **Licensing:** SUNSET is licensed for reuse at the same time, after its trial season (6.1).
 
 ### 3.1 Who
 
-**Anyone can own a node:** a host, a sponsor, a local group, a school. **Owning a node and hosting it are different:**
+**Anyone can own a node:** a host, a sponsor, a local group, a school, a business; one node each. **Owning a node and hosting it are different:**
 
 | | Owner (keyholder) | Host |
 | --- | --- | --- |
 | Is | Whoever takes on the node | Whoever gives the wall or ground |
-| Holds | The node's signing key; a say in rule changes and the year's coin list | Their wall, and their consent |
+| Holds | The node's signing key; a vote on rule changes and the year's coin list | Their wall, and their consent |
 | Answers for | The node: care, insurance, its share of upkeep | Access to their wall |
 | Often | The same person as the host, but need not be | |
 
@@ -119,27 +135,27 @@ Everything in the SUNSET repository: stamps and tokens ([tokenomics.md](https://
 | --- | --- | --- |
 | **Writes the rules and firmware** | PVA | One rules file per season, frozen in firmware; reproducible builds with published fingerprints |
 | **Manages the website** | PVA | The map, Sole, the explorer, the weekly coin table |
-| **Holds a node** | Its owner | The node's key, generated on the node and never seen by PVA; a vote on rule changes (each owner re-flashes their own node) and on the year's coin list (for example 5 of 9 signatures) |
+| **Holds a node** | Its owner | The node's key, generated on the node and never seen by PVA; a vote on rule changes and on the year's coin list: 5 of 9 signatures, made at the node and enforced by the firmware |
 | **Carries, earns and verifies** | Anyone | Walk stamps, the sun's allowance at the arm, the explorer's script |
 
-The full design, its checks and its risks are in [tokenomics.md 5](https://github.com/photovoltaic-art/SUNSET/blob/main/tokenomics.md).
+The owners' agreement is [GOVERNANCE.md](https://github.com/photovoltaic-art/SUNSET/blob/main/GOVERNANCE.md); the design behind it, its checks and its risks are in [tokenomics.md 5](https://github.com/photovoltaic-art/SUNSET/blob/main/tokenomics.md).
 
 ### 3.3 Handing a node over
 
-1. **Agreement:** the owner takes on the node, its care and its insurance; the host's consent stays in place.
-2. **At the spring visit:** the conversion (2.1), then a new key generated on the node, its public half published.
-3. **A public moment:** the handover can be part of the work, nine panels passing from PVA to the town.
-4. **What if no one comes forward:** PVA keeps the node until someone does; the network runs with whatever owners it has.
+1. **Agreement:** the buyer signs the owners' agreement and takes on the node, its care and its insurance; the host's consent stays with the wall.
+2. **After the auction:** a new key is generated on the node in the new owner's presence, its public half published; PVA's key is retired and published with its end date (stamp-format.md 2). No rules change: the rules in force run until spring.
+3. **A public moment:** the auction and the handover are part of the work, nine panels passing from PVA to the town on the longest day.
+4. **If a lot does not sell:** PVA keeps the node, it abstains, and it is offered again at the next solstice. The network runs with whatever owners it has.
 
 ### 3.4 Open in this model
 
 | Question | Notes |
 | --- | --- |
-| **The terms of ownership** | Given, adopted, or paid for (an owner funding their node's conversion would fund year 2); and what happens when an owner leaves |
+| **The auction** | Who runs it (an auction house, a local gallery, or PVA); reserve prices; payment in euros or bitcoin; VAT and the artist's resale right (*diritto di seguito*) on later resales, to check with a professional |
 | Upkeep | Who does the rounds once nodes have nine owners: PVA as a service, the owners, or both |
 | Insurance and permissions | Nine owners, one installation: one shared policy, or nine |
 | The annual event | Continue, change, or end with year 1 (2.2) |
-| The artwork | A PVA work becomes a commons: how the work, and PVA's authorship, is described from year 2 |
+| The artwork | A PVA work becomes a commons: how the work, and PVA's authorship, is described after the auction |
 
 ---
 
@@ -152,7 +168,8 @@ The full design, its checks and its risks are in [tokenomics.md 5](https://githu
 | **SUNSET's budget** | Panels, carrier boards, walls' boxes and fixings already exist from year 1: the year-2 cost is the five conversions, the coins and the reference sensors |
 | **SUNSET's firmware** | The wall build includes Sole's logging, so the record continues |
 | **Interactive nodes** | A reference sun sensor on each, for Sole (2.2) |
-| **Governance** | tokenomics.md 5 moves from a proposal to the plan for year 2 |
+| **Governance** | The owners' agreement ([GOVERNANCE.md](https://github.com/photovoltaic-art/SUNSET/blob/main/GOVERNANCE.md)) applies from the 2029 auction |
+| **Provenance** | The explorer can produce each node's record, from installation to sale, as the condition report for its lot (3.0) |
 | **Forking** | Each repository carries a FORK-TASKS.md; SUNSET's follows SUNDIAL's (5.4) |
 
 ---
@@ -190,7 +207,7 @@ The radio node once sketched in GO TO BED (a LoRa link to the next village) is s
 | Writes | Its town's texts, logos, coin artwork, site plan | The repositories, the firmware, the rules template, the verifier |
 | Asks | A link back (a request, not a licence condition) | |
 
-**The path in a new town is the same as in Bosa:** fork SUNDIAL for year 1; fork SUNSET for year 2, converting the same nine panels; hand the nodes to nine owners.
+**The path in a new town is the same as in Bosa:** fork SUNDIAL for year 1; fork SUNSET for year 2, converting the same nine panels for a trial season; then sell the nodes to nine owners.
 
 **Towns are kept apart by design, not by trust:**
 - **Keys:** a node accepts only its own town's nine keys, so another town's stamps and blocks fail the first signature check. *No change to the block format or the seal is needed.*
