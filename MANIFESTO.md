@@ -32,7 +32,7 @@ A solar panel is retired after twenty or twenty-five years. It is not dead. It s
 
 8. **Slow.** Works are tended on foot and change at walking pace. They outlast an event and are cared for over years.
 
-9. **Open.** Anyone may make their own. The designs are published; a link back is asked, not required.
+9. **An edition of nine.** Every public installation is nine panels: never more, never less.
 
 ### Works
 
@@ -75,7 +75,7 @@ Un pannello solare viene dismesso dopo venti o venticinque anni. Non è morto. T
 
 8. **Lento.** Le opere si curano a piedi e cambiano al passo di chi cammina. Durano oltre un evento e vengono curate negli anni.
 
-9. **Aperto.** Chiunque può farne una propria. I progetti sono pubblici; si chiede un link, non lo si impone.
+9. **Un'edizione di nove.** Ogni installazione pubblica è di nove pannelli: mai di più, mai di meno.
 
 ### Opere
 
