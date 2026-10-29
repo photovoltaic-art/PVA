@@ -92,7 +92,7 @@ So the year-1 site plan names a year-2 role for each panel, and the year-1 permi
 
 | SUNDIAL layer | In year 2 |
 | --- | --- |
-| **The sundial** | **On all nine.** The gnomons and hour brackets stay; the town's nine sundials outlive any firmware |
+| **The sundial** | **On all nine.** The gnomons, hour lines and date marks stay; the town's nine sundials outlive any firmware |
 | **Sole, the sun monitor** | **On all nine, if the interactive nodes carry a reference sun sensor.** On the battery tier the panel's own sun reading is compiled out, and a battery's harvest is not sunlight. A small reference solar cell on each interactive node (as the arm already needs: tokenomics.md 2.2) keeps the record honest. The walls carry on measuring as before, and are also the cross-check for the arm's sun claim |
 | **The annual event** | **To decide:** whether SUNDIAL's event week continues on the four walls, on all nine, or ends with year 1 |
 
